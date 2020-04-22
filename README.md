@@ -4,7 +4,7 @@
 
 This school project aims at implementing [this paper](https://arxiv.org/abs/1708.03625), by illustrating its use on the PUMP problem explained [here](http://www.openbugs.net/Examples/Pumps.html).
 _____
-**More explainatitions are available in french in the notebook.**
+**More explainations are available in french in the notebook.**
 _____
 
 ### PUMP problem resolution
