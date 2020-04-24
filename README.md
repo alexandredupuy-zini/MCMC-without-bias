@@ -1,6 +1,6 @@
 # MCMC-without-bias
 
-**Authors : BLAZER Alan, BOUVIER Oscar, DUPUY-ZINI Alexandre**
+**Authors : DUPUY-ZINI Alexandre, BLAZER Alan, BOUVIER Oscar**
 
 This school project aims at implementing [this paper](https://arxiv.org/abs/1708.03625), by illustrating its use on the PUMP problem explained [here](http://www.openbugs.net/Examples/Pumps.html).
 _____
